@@ -4,9 +4,10 @@ This project is a web-based SHA-256 hash generator created using HTML, CSS, and 
 
 ## Demo
 
-![Screenshot of the SHA-256 Hash Generator](images/screenshot.png)
+![Screenshot of the SHA-256 Hash Generator]
+![Screenshot (215)](https://github.com/Ark898/SHA256-Hash-Generator/assets/137332440/30b8e9e9-89d4-41f8-a86e-03d1106c45a4)
 
-You can view a live demo of the project [here](https://your-username.github.io/sha256-hash-generator/).
+You can view a live demo of the project [here](https://ark898.github.io/SHA256-Hash-Generator/).
 
 ## Features
 
